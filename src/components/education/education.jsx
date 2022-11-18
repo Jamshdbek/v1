@@ -35,7 +35,7 @@ function Education() {
         </div><br />
         <p className={cls.snack_info}>TypeScript React.js Redux Rapid API MUI</p>
         </div>
-        <a href="">
+        <a href="https://spotfiy-clone.vercel.app/">
           <div className={cls.img_two} data-aos="fade-right">
 
           </div>
