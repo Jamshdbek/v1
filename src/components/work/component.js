@@ -14,12 +14,6 @@ export const project = [
     url: "https://codiemaster.vercel.app/",
     stack: "TypeScript Redux React Axios ",
   },
-  {
-    id: 2,
-    name: "Fits club",
-    img: "https://thumbs.files.fm/thumb_show.php?i=q4n26ayae&view",
-    url: "https://zealous-ramanujan-4541d3.netlify.app/",
-    stack: "HTML CSS JavaScript",
-  },
+ 
  
 ];
