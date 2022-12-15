@@ -12,16 +12,16 @@ function Education() {
       <div className={cls.container}
         data-aos="fade-left"
       >
-        <a href="https://github.com/UmarAdkham/behance/tree/master/server">
+        <a href="https://metaversus-pink.vercel.app/">
           <div className={cls.photo} data-aos="fade-left">
           </div>
         </a>
-        <p className={cls.textured}>we made the backend of the famous website behance with the group, it has auth and phono uploads</p>
+        <p className={cls.textured}>Metaverse is a new thing in the future, where you can enjoy the virtual world by feeling like it's really real using only VR devices you can easily explore the metaverse world you want, turn your dreams into reality.</p>
         <div className={cls._inform}>
 
-          <p className={cls.info}>node js backend</p>
-          <h2 className={cls.one_text}>Node project</h2>
-          <p className={cls.snack}>Node.js Express.js MongoDB mongoose</p>
+          <p className={cls.info}>Next js </p>
+          <h2 className={cls.one_text}>Metaversus</h2>
+          <p className={cls.snack}>Next.js JS Moution</p>
         </div>
       </div>
       {/* second work */}
@@ -46,7 +46,7 @@ function Education() {
         data-aos="fade-left"
       >
         <a href="https://github.com/UmarAdkham/behance/tree/master/server">
-          <div className={cls.photo} data-aos="fade-left">
+          <div className={cls.photo_work} data-aos="fade-left">
           </div>
         </a>
         <p className={cls.textured}>we made the backend of the famous website behance with the group, it has auth and phono uploads</p>
